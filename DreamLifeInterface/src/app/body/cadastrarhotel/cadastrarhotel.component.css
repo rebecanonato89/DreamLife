@@ -1,0 +1,87 @@
+.filtro {
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  text-align:center;
+  color: #1E6FA2;
+
+  /* pura mágica */
+  position: absolute;
+  top: 50%; /* posiciona na metade da tela */
+  margin-top: -75px; /* e retrocede metade da altura */
+}
+
+.cidade{
+  margin-bottom: 30px;
+}
+
+.form-field{
+  margin-right: 30px;
+  margin-left: 415px;
+}
+
+.centraliza {
+  width: 1000px;
+  margin: auto;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  margin-left: 245px;
+}
+
+.example-full-width {
+  margin-left: 1.25em;
+  width: 100%;
+}
+
+.example{
+  padding-right: 80px;
+}
+.title{
+  background: #1E6FA2;
+  color:white;
+}
+
+.icon {
+  color: #1E6FA2;
+}
+
+button{
+  margin: 15px;
+}
+
+.cadastro-concluido-card{
+  top: 30%;
+  left: 38%;
+  width: 25%;
+  height: 5%;
+  align-self: center;
+  position: absolute;
+  margin: 0 auto;
+  border-radius: 60px 60px 60px 60px;
+  min-height: fit-content;
+  box-shadow: 1px 5px 3px gray;
+  background-color: #9EF0A9;
+  align-content: center;
+}
+
+.title-pop-up{
+  color: #000000;
+  font-family: 'Microsoft-yahei';
+  text-align: center;
+  margin:0 auto;
+  padding-top: 10px;
+  font-size: 20px;
+  align-content: center;
+}
+
+#hotelStar {
+  color: #EFCE4A !important;
+  font-size: 30px;
+  text-align: left !important;
+}

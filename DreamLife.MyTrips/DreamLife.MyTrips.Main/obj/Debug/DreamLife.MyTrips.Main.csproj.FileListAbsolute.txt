@@ -1,0 +1,70 @@
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Main.exe.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Main.exe
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Main.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Dominio.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Respositorio.EF.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Persistencia.EF.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Dominio.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Respositorio.EF.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Persistencia.EF.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.exe
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\Npgsql.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\Npgsql.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\Npgsql.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Dominio.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Respositorio.EF.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Persistencia.EF.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.csprojAssemblyReference.cache
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.csproj.CopyComplete
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.csproj.CoreCompileInputs.cache
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Main.exe.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Main.exe
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Main.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Dominio.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Respositorio.EF.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework6.Npgsql.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\Npgsql.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.ValueTuple.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Persistencia.EF.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Dominio.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Dominio.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Respositorio.EF.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Respositorio.EF.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EntityFramework6.Npgsql.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\Npgsql.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\Npgsql.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\System.ValueTuple.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Persistencia.EF.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\DreamLife.MyTrips.Persistencia.EF.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.csprojAssemblyReference.cache
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.csproj.CopyComplete
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.exe
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\obj\Debug\DreamLife.MyTrips.Main.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EPPlus.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Main\bin\Debug\EPPlus.xml

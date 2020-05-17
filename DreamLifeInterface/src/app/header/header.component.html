@@ -1,0 +1,22 @@
+<header>
+  <div class="texto-header">
+    my trips
+  </div>
+
+  <div class="menu">
+      <button mat-icon-button [matMenuTriggerFor]="menu">
+        <mat-icon class="edit">edit</mat-icon>
+      </button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item>
+        <span [routerLink]="['/CadastrarCidade']">Cadastrar Cidade</span>
+      </button>
+      <button mat-menu-item>
+        <span [routerLink]="['/CadastrarHotel']">Cadastrar Hotel</span>
+      </button>
+      <button mat-menu-item>
+        <span [routerLink]="['/Home']">Home</span>
+      </button>
+    </mat-menu>
+  </div>
+</header>

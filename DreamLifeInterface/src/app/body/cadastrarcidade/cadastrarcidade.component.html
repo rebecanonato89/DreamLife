@@ -1,0 +1,86 @@
+<app-status-viagem [template]="false">
+  <h1>Cadastrar Cidade</h1>
+</app-status-viagem>
+
+<div class="centraliza">
+  <section *ngIf="onEdit">
+    <!-- CADASTRO DAS CIDADES -->
+    <form #f="ngForm" class="example-form" align="center" (ngSubmit)="inserir(f)" >
+      <mat-form-field class="example-full-width">
+        <input
+          [(ngModel)]="cidadeCadastrar.NomeCidade"
+          name="NomeCidade"
+          matInput
+          placeholder="Cidade"
+        />
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <input
+          [(ngModel)]="cidadeCadastrar.PaisCidade"
+          name="PaisCidade"
+          matInput
+          placeholder="País"
+        />
+      </mat-form-field>
+      <button mat-icon-button > <!--(click)="inserir()"-->
+        <mat-icon matSuffix>add_circle_outline</mat-icon>
+      </button>
+    </form>
+  </section>
+
+  <!-- TABELA DA CIDADES JÁ CADASTRADAS -->
+
+  <table class="table table-striped">
+    <thead>
+      <tr class="title">
+        <th scope="col">Cidade</th>
+        <th scope="col">País</th>
+        <th scope="col">Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let cidade of cidades; let i = index">
+        <th>{{ cidade.NomeCidade }}</th>
+        <th>{{ cidade.PaisCidade }}</th>
+        <th>
+          <button mat-icon-button (click)="update(i)">
+            <mat-icon class="icon">edit</mat-icon>
+          </button>
+          <button mat-icon-button (click)="delete(i)">
+            <mat-icon class="icon">delete</mat-icon>
+          </button>
+        </th>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ATUALIZAÇÃO DAS CIDADES -->
+<section *ngIf="!onEdit">
+  <div class="centraliza">
+    <form class="example-form" align="center">
+      <button mat-icon-button (click)="volta()">
+        <mat-icon>arrow_back</mat-icon>
+      </button>
+      <mat-form-field class="example-full-width">
+        <input
+          [(ngModel)]="cidadeAtualizar.NomeCidade"
+          name="NomeCidade"
+          matInput
+          placeholder="Cidade"
+        />
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <input
+          [(ngModel)]="cidadeAtualizar.PaisCidade"
+          name="PaisCidade"
+          matInput
+          placeholder="País"
+        />
+      </mat-form-field>
+      <button mat-icon-button (click)="Update_serve(i)">
+        <mat-icon matSuffix>add_circle_outline</mat-icon>
+      </button>
+    </form>
+  </div>
+</section>

@@ -1,0 +1,30 @@
+header {
+  background-color: #2FAEFE;
+  min-height: 200px;
+  max-height: 200px;
+  position: relative;
+}
+
+.texto-header {
+  text-align: center;
+  font-size: 75px;
+  color:#FFFFFF;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  padding-top: 5px;
+}
+
+.edit{
+  color: white;
+  font-size: 50px;
+  line-height: 50px;
+  border: solid 1px;
+  width: 50px;
+  height: 50px;
+  }
+
+
+.menu{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}

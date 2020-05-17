@@ -1,0 +1,27 @@
+.centraliza {
+  width: 555px;
+  margin: auto;
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  margin-left: 1.25em;
+}
+
+.example-full-width {
+  margin-left: 1.25em;
+}
+
+.title{
+  background: #1E6FA2;
+  color:white;
+}
+
+.icon {
+  color: #1E6FA2;
+}
+

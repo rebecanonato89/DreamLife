@@ -1,0 +1,71 @@
+<!-- <mat-card class="example-card">-->
+<section *ngIf="template">
+  <div class="filtros">
+    <!-- Menu para Selecionar a Cidade -->
+    <div class="filtro">
+      <img class="icone" [src]="placeholderIcon" alt="icone de Cidade" />
+      <mat-form-field class="form-field">
+        <mat-select
+          placeholder="City"
+          [(ngModel)]="cidadeId"
+          name="city"
+          (ngModelChange)="onAddCidade()"
+        >
+          <mat-option *ngFor="let cidade of cidades" [value]="cidade.Id">
+            {{ cidade.NomeCidade }}, {{ cidade.PaisCidade }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+    <div class="filtro">
+      <img class="icone" [src]="calendarIcon" alt="icone do calendario" />
+      <mat-form-field>
+        <input
+          matInput
+          [matDatepicker]="picker"
+          placeholder="Choose a date"
+          disabled
+          [value]="date.value"
+        />
+        <mat-datepicker-toggle matSuffix [for]="picker">
+        </mat-datepicker-toggle>
+        <mat-datepicker #picker></mat-datepicker>
+      </mat-form-field>
+    </div>
+
+    <div class="filtro">
+      <img
+        class="icone"
+        [src]="manUserIcon"
+        alt="icone da quantiade de pessoas"
+      />
+      <mat-form-field>
+        <input matInput disabled  value="1 Guest" class="text-center" />
+      </mat-form-field>
+    </div>
+
+    <div class="filtro">
+      <img class="icone" [src]="crownIcon" alt="classe do hotel" />
+      <mat-form-field>
+        <input matInput disabled  value="First CLass" class="text-center" />
+      </mat-form-field>
+    </div>
+
+    <div class="filtro">
+      <img class="icone" [src]="creditCardIcon" alt="icone do calendario" />
+      <mat-form-field>
+        <input matInput disabled  value="800€" class="text-center" />
+      </mat-form-field>
+    </div>
+  </div>
+</section>
+
+<section *ngIf="!template">
+  <div class="filtros">
+    <div class="filtro_Independente">
+      <ng-content></ng-content>
+    </div>
+  </div>
+</section>
+<!--</mat-card>-->

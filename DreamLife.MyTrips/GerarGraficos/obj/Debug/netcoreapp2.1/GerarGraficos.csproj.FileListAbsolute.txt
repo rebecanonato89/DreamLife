@@ -1,0 +1,9 @@
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\bin\Debug\netcoreapp2.1\GerarGraficos.deps.json
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\bin\Debug\netcoreapp2.1\GerarGraficos.dll
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\bin\Debug\netcoreapp2.1\GerarGraficos.pdb
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\obj\Debug\netcoreapp2.1\GerarGraficos.csprojAssemblyReference.cache
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\obj\Debug\netcoreapp2.1\GerarGraficos.csproj.CoreCompileInputs.cache
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\obj\Debug\netcoreapp2.1\GerarGraficos.AssemblyInfoInputs.cache
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\obj\Debug\netcoreapp2.1\GerarGraficos.AssemblyInfo.cs
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\obj\Debug\netcoreapp2.1\GerarGraficos.dll
+D:\github_projetos\DreamLife.MyTrips\GerarGraficos\obj\Debug\netcoreapp2.1\GerarGraficos.pdb

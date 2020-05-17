@@ -1,0 +1,6 @@
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\bin\Release\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\bin\Release\DreamLife.MyTrips.Repositorio.Comum.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Release\DreamLife.MyTrips.Repositorio.Comum.csprojAssemblyReference.cache
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Release\DreamLife.MyTrips.Repositorio.Comum.csproj.CoreCompileInputs.cache
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Release\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Release\DreamLife.MyTrips.Repositorio.Comum.pdb

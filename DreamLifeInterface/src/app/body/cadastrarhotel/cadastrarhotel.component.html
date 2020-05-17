@@ -1,0 +1,182 @@
+<app-status-viagem [template]="false">
+  <h1>Cadastrar Hotel</h1>
+</app-status-viagem>
+
+<section *ngIf="onEditCidade && onEdit">
+  <!--  SELECIONAR A CIDADE PARA CADASTRAR HOTEL -->
+  <div class="centraliza">
+    <div class="cidade">
+      <mat-form-field class="form-field">
+        <mat-select
+          placeholder="Selecione a Cidade do Hotel"
+          [(ngModel)]="cidadeId"
+          name="city"
+          (ngModelChange)="onAddCidade()"
+        >
+          <mat-option *ngFor="let cidade of cidades" [value]="cidade.Id">
+            {{ cidade.NomeCidade }}, {{ cidade.PaisCidade }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+      <img class="icone" [src]="placeholderIcon" alt="icone de Cidade" />
+    </div>
+
+    <!-- TABELA DOS HOTEIS JÁ CADASTRADOS -->
+    <table class="table table-striped">
+      <thead>
+        <tr class="title">
+          <th scope="col">Hoteis Cadastrados</th>
+          <th scope="col">cidade</th>
+          <th scope="col">Ações</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let hotel of hoteis; let i = index">
+          <th>{{ hotel.NomeHotel }}</th>
+          <th>{{ hotel.Cidade.NomeCidade }}</th>
+          <th>
+            <button mat-icon-button (click)="update(i)">
+              <mat-icon class="icon">edit</mat-icon>
+            </button>
+            <button mat-icon-button (click)="delete(i)">
+              <mat-icon class="icon">delete</mat-icon>
+            </button>
+          </th>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- CADASTRO DOS HOTEIS -->
+<section *ngIf="!onEditCidade">
+  <div
+    *ngIf="formConcluido"
+    class="cadastro-concluido-card"
+  >
+    <h1 class="title-pop-up">Cadastro realizado com sucesso!</h1>
+  </div>
+  <div class="centraliza">
+    <form
+      #f="ngForm"
+      class="example-form"
+      align="center"
+      (ngSubmit)="inserir(f)"
+    >
+      <mat-form-field class="example-full-width">
+        <input
+          [(ngModel)]="cadastrarHotel.NomeHotel"
+          name="NomeHotel"
+          matInput
+          placeholder="Nome Hotel"
+        />
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+        <input
+          [(ngModel)]="cadastrarHotel.Localizacao"
+          name="Localizacao"
+          matInput
+          placeholder="Endereço Hotel"
+        />
+      </mat-form-field>
+      <mat-form-field class="example-full-width">
+          <input
+            [(ngModel)]="cadastrarHotel.Imagem"
+            name="Imagem"
+            matInput
+            placeholder="Link da Imagem"
+          />
+        </mat-form-field>
+      <mat-form-field class="example">
+        <input
+          [(ngModel)]="cadastrarHotel.PrecoDiaria"
+          name="PrecoDiaria"
+          matInput
+          placeholder="Preço Diária"
+        />
+      </mat-form-field>
+      Classificação:
+      <ngb-rating [(rate)]="currentRate" [readonly]="editable" id="hotelStar"></ngb-rating>
+      <mat-form-field class="example-full-width">
+        <textarea
+          matInput
+          placeholder="Descrição"
+          [(ngModel)]="cadastrarHotel.Descricao"
+          name="Descricao"
+        ></textarea>
+      </mat-form-field>
+      <button mat-raised-button color="primary">
+        Concluir Cadastro
+      </button>
+      <button mat-raised-button color="warn" (click)="cancelar(f)">
+        Cancelar
+      </button>
+    </form>
+  </div>
+</section>
+
+<!-- Atualização DOS HOTEIS -->
+<section *ngIf="!onEdit">
+    <div
+      *ngIf="formConcluido"
+      class="cadastro-concluido-card"
+    >
+      <h1 class="title-pop-up">Atualização realizada com sucesso!</h1>
+    </div>
+    <div class="centraliza">
+      <form
+        #f="ngForm"
+        class="example-form"
+        align="center"
+      >
+        <mat-form-field class="example-full-width">
+          <input
+            [(ngModel)]="hotelAtualizar.NomeHotel"
+            name="NomeHotel"
+            matInput
+            placeholder="Nome Hotel"
+          />
+        </mat-form-field>
+        <mat-form-field class="example-full-width">
+          <input
+            [(ngModel)]="hotelAtualizar.Localizacao"
+            name="Localizacao"
+            matInput
+            placeholder="Endereço Hotel"
+          />
+        </mat-form-field>
+        <mat-form-field class="example-full-width">
+            <input
+              [(ngModel)]="hotelAtualizar.Imagem"
+              name="Imagem"
+              matInput
+              placeholder="Link da Imagem"
+            />
+          </mat-form-field>
+        <mat-form-field class="example">
+          <input
+            [(ngModel)]="hotelAtualizar.PrecoDiaria"
+            name="PrecoDiaria"
+            matInput
+            placeholder="Preço Diária"
+          />
+        </mat-form-field>
+        Classificação:
+        <ngb-rating [(rate)]="hotelAtualizar.Classificacao" [readonly]="editable" id="hotelStar"></ngb-rating>
+        <mat-form-field class="example-full-width">
+          <textarea
+            matInput
+            placeholder="Descrição"
+            [(ngModel)]="hotelAtualizar.Descricao"
+            name="Descricao"
+          ></textarea>
+        </mat-form-field>
+        <button mat-raised-button color="primary" (click)="Update_serve(i)">
+          Concluir Cadastro
+        </button>
+        <button mat-raised-button color="warn" (click)="cancelarUpdate()">
+          Cancelar
+        </button>
+      </form>
+    </div>
+  </section>

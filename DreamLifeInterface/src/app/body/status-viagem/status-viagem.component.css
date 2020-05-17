@@ -1,0 +1,69 @@
+#posiciona {
+  position: absolute;
+  /* posição absoluta ao elemento pai, neste caso o BODY */
+  /* Posiciona no meio, tanto em relação a esquerda como ao topo */
+  left: 50%;
+  top: 50%;
+  width: 1500px;
+  /* Largura da DIV */
+  height: 180px;
+  /* Altura da DIV */
+  /* A margem a esquerda deve ser menos a metade da largura */
+  /* A margem ao topo deve ser menos a metade da altura */
+  /* Fazendo isso, centralizará a DIV */
+  margin-left: -750px;
+  margin-top: -220px;
+  /* -13%; */
+  background-color: #FFF;
+  text-align: center;
+  /* Centraliza o texto */
+  z-index: 1000;
+  /* Faz com que fique sobre todos os elementos da página */
+  border-radius: 40px 40px 40px 40px;
+}
+
+.example-card {
+  max-width: 85%;
+  float: center;
+}
+
+.filtros{
+  position: absolute;
+  left: 155px;
+  top: 145px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 83%;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  box-shadow: 1px 5px 3px rgba(0, 0, 0, 0.16);
+}
+
+.filtro{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-align-last: center;
+  margin: 1.5% 1.5%;
+  width: 15%;
+}
+.filtro_Independente{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-align-last: center;
+  margin: 3% 1.5%;
+}
+
+.icone{
+  width: 30%;
+  height: 30%;
+}
+
+.mat-form-field{
+  width: 70% ;
+}

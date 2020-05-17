@@ -1,0 +1,270 @@
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Antlr3.Runtime.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Repositorio.Comum.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Newtonsoft.Json.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Owin.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Helpers.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Owin.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Mvc.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Optimization.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Razor.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\WebGrease.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Repositorio.Comum.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Newtonsoft.Json.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Helpers.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Mvc.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Optimization.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Razor.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Antlr3.Runtime.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Owin.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework6.Npgsql.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.ValueTuple.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework6.Npgsql.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.ValueTuple.xml
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.dll.config
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csprojAssemblyReference.cache
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csproj.CopyComplete
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Cors.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Cors.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Cors.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.dll.config
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Antlr3.Runtime.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.SqlServer.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework6.Npgsql.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Google.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Newtonsoft.Json.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Owin.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Net.Http.Formatting.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Threading.Tasks.Extensions.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.ValueTuple.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Cors.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Helpers.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Cors.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Owin.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.WebHost.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Mvc.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Optimization.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Razor.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\WebGrease.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.dll.config
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Repositorio.Comum.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.dll.config
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.SqlServer.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework6.Npgsql.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Net.Http.Formatting.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Threading.Tasks.Extensions.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.ValueTuple.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Cors.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Newtonsoft.Json.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Helpers.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.WebHost.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Mvc.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Optimization.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Razor.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Antlr3.Runtime.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Google.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Owin.xml
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.pdb
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.dll.config
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csprojAssemblyReference.cache
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csproj.CoreCompileInputs.cache
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csproj.CopyComplete
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.dll
+D:\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csprojAssemblyReference.cache
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csproj.CoreCompileInputs.cache
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.API.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Antlr3.Runtime.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.SqlServer.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework6.Npgsql.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Facebook.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Google.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Twitter.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Web.Infrastructure.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Newtonsoft.Json.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Owin.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Net.Http.Formatting.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Threading.Tasks.Extensions.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.ValueTuple.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Cors.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Helpers.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Cors.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Owin.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.WebHost.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Mvc.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Optimization.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Razor.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Deployment.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Razor.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\WebGrease.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Dominio.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Repositorio.Comum.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Respositorio.EF.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework.SqlServer.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\EntityFramework6.Npgsql.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Npgsql.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Net.Http.Formatting.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Threading.Tasks.Extensions.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.ValueTuple.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Cors.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Newtonsoft.Json.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Helpers.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.WebHost.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Mvc.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Optimization.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Razor.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Deployment.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.WebPages.Razor.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Antlr3.Runtime.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Facebook.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Google.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.Twitter.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\System.Web.Http.Owin.xml
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\bin\DreamLife.MyTrips.Persistencia.EF.dll.config
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.csproj.CopyComplete
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.API\obj\Debug\DreamLife.MyTrips.API.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.dll
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.pdb
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.csprojAssemblyReference.cache
+C:\Users\User\Google Drive\Projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.csproj.CoreCompileInputs.cache
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\bin\Debug\DreamLife.MyTrips.Repositorio.Comum.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.csproj.CoreCompileInputs.cache
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.dll
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.pdb
+D:\github_projetos\DreamLife.MyTrips\DreamLife.MyTrips.Repositorio.Comum\obj\Debug\DreamLife.MyTrips.Repositorio.Comum.csprojAssemblyReference.cache

@@ -1,0 +1,57 @@
+<!-- BOTÕES DOS HOTEIS SELECIONADOS -->
+<section *ngIf="onEdit">
+  <app-status-viagem [template]="true"></app-status-viagem>
+  <div *ngIf="enable != 0; else mytemplate">
+    <!-- HOTEIS PELA CIDADE SELECIONADA -->
+
+    <div class="principalHotel">
+      <button
+        *ngFor="let hotel of hotels"
+        class="btn-light custom-btn-padding"
+        mat-raised-button
+        (click)="descricao(hotel)"
+      >
+        <div class="img">
+          <img src="{{ hotel.Imagem }}" />
+        </div>
+        <div class="secundarioHotel">
+          <span id="hotelStar"
+            ><ngb-rating rate="{{ hotel.Classificacao }}"> </ngb-rating
+          ></span>
+          <span class="hotelTitle">{{ hotel.NomeHotel }}</span>
+          <span class="hotelCity">{{ hotel.Localizacao }}</span>
+          <span class="hotelPrice">{{ hotel.PrecoDiaria }}€</span>
+        </div>
+      </button>
+    </div>
+  </div>
+  <!-- MENSAGEM SE NÃO EXISTIR HOTEL PARA A CIDADE SELECIONADA -->
+  <ng-template #mytemplate>
+    <div class="msg">
+      <h2>Nenhum Hotel Para Esta Localidade!</h2>
+    </div>
+  </ng-template>
+</section>
+
+<!-- MENU PARA RETORNAR A PÁGINA PRINCIPAL -->
+<section *ngIf="!onEdit">
+  <app-status-viagem [template]="false">
+    <div class="paiButtom">
+      <button mat-icon-button class="buttomVolta" (click)="volta()">
+        <mat-icon class="iconVolta">arrow_back</mat-icon>
+      </button>
+
+      <h1>{{ nomeHotel }}</h1>
+    </div>
+  </app-status-viagem>
+  <!-- PÁGINA DE DESCRICAO DO HOTEL -->
+  <div class="detalhes">
+    <div class="detalhes-visuais">
+      <img class="imagem-hotel" src="{{ imagemHotel }}" alt="Hotel" />
+      <ngb-rating rate="{{ classificacaoHotel }}" id="hotelStar"></ngb-rating>
+    </div>
+    <div class="descricao">
+      <p>{{ descricaoHotel }}</p>
+    </div>
+  </div>
+</section>

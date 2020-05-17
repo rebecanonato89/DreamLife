@@ -1,0 +1,10 @@
+footer.fixar-rodape {
+  /* rodape somente com cor */
+  /** border-top: 1px solid #333; **/
+  bottom: 0;
+  left: 0;
+  height: 5.5%;
+  position: fixed;
+  width: 100%;
+  background-color: #8AD2FF;
+}

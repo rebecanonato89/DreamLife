@@ -1,0 +1,2 @@
+﻿This Unicode string has 2 characters outside the ASCII range:
+Pi (Π)), and Sigma (Σ).

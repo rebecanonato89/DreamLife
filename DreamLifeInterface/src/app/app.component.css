@@ -1,0 +1,11 @@
+body {
+  background-color: #F2F2F2;
+  font-family: "Crimson Text", "Times New Roman", serif;
+  font-size: 120%;
+  line-height: 1.5;
+  min-height: 100%;
+  /* Min-height para IE6 */
+  height: 100%;
+  height: auto !important;
+  padding-bottom: 5%;
+}
